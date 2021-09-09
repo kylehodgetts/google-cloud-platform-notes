@@ -1,0 +1,7 @@
+﻿Role,Purpose,Scope
+Billing Account Creator,Create new self-serve billing accounts,Org
+Billing Account Administrator,Manage Billing accounts but not create them,Billing Account
+Billing Account User,Link projects to billing accounts,Billing accounts
+Billing account viewer,View billing account cost information and transactions,Billing Account
+Project Billing Manager,Link or Unlink the project to or from a billing account,Project
+,,
