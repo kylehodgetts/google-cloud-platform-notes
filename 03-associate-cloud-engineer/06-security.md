@@ -62,6 +62,6 @@ Aссounting: What did you do? (audit)
     - File in GCS bucket (json or csv)
 - GCS Object Lifecycle management
 
-[IAM Breakdown](Security%20ceb8a84eadc4477cb3d38f92cd9eb6d6/IAM%20Breakdown%2077558a64b5344f3bacaa2308df2cd953.md)
+[IAM Breakdown](06-security/IAM%20Breakdown%2077558a64b5344f3bacaa2308df2cd953.md)
 
-[Billing Access Control](Security%20ceb8a84eadc4477cb3d38f92cd9eb6d6/Billing%20Access%20Control%207b28546d2d7b42ff8d0b14f909272dd6.md)
+[Billing Access Control](06-security/Billing%20Access%20Control%207b28546d2d7b42ff8d0b14f909272dd6.md)
