@@ -37,7 +37,7 @@ You’ll need to accomplish the following steps to complete your task:
 1. From command line, get lifecycle rules.
 2. Set lifecycle rule from command line using JSON file.
 
-![Managing%20Storage%20and%20Databases%20aef832aa575346d59fc46b1c244e3f3e/Screenshot_2021-06-09_at_09.42.44.png](Managing%20Storage%20and%20Databases%20aef832aa575346d59fc46b1c244e3f3e/Screenshot_2021-06-09_at_09.42.44.png)
+![Managing%20Storage%20and%20Databases%20aef832aa575346d59fc46b1c244e3f3e/Screenshot_2021-06-09_at_09.42.44.png](imgs/Screenshot_2021-06-09_at_09.42.44.png)
 
 Get lifecycle rule for bucket
 
